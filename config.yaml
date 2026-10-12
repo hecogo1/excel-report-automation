@@ -1,0 +1,17 @@
+# Column name aliases: any header matching an alias (case/space-insensitive) is renamed.
+columns:
+  date: [date, order_date, "order date", fecha]
+  region: [region, zone, area]
+  product: [product, item, "product name"]
+  quantity: [quantity, qty, units]
+  unit_price: [unit_price, "unit price", price]
+required: [date, region, product, quantity, unit_price]
+validation:
+  min_quantity: 1
+  max_quantity: 1000
+  min_price: 0.01
+report:
+  title: Monthly Sales Report
+  currency_format: '#,##0.00 "€"'
+  top_n_products: 10
+file_patterns: ["*.csv", "*.xlsx", "*.xls"]

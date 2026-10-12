@@ -1,0 +1,8 @@
+2026-10-12 15:55:55,065 | ERROR   | sales_report.ingest | Skipping broken_export.csv: missing columns ['product', 'quantity', 'region', 'unit_price']
+2026-10-12 15:55:55,087 | INFO    | sales_report.ingest | Read sales_2026_Q1_part1.xlsx (350 rows)
+2026-10-12 15:55:55,089 | INFO    | sales_report.ingest | Read sales_apr_may.csv (400 rows)
+2026-10-12 15:55:55,102 | INFO    | sales_report.ingest | Read sales_june.xlsx (220 rows)
+2026-10-12 15:55:55,104 | INFO    | sales_report.ingest | Read ventas_marzo.csv (208 rows)
+2026-10-12 15:55:55,129 | INFO    | sales_report.clean | Clean rows: 1123 | rejected: 47 | duplicates removed: 8
+2026-10-12 15:55:55,429 | INFO    | sales_report | Report written to output/sales_report.xlsx (revenue 3983193.30, 1123 clean rows, 47 rejected)
+2026-10-12 15:55:55,429 | INFO    | sales_report | Log saved to logs/run_20261012_155555.log

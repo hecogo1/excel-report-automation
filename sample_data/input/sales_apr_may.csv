@@ -1,0 +1,401 @@
+Order Date,AREA,Product Name,Units,unit_price
+2026-04-20,NORTH,Webcam,10,€ 65.58
+2026-04-06, west ,Mouse,14,€ 24.98
+2026-04-04, south ,Keyboard,2,€ 46.86
+2026-04-13, east ,Monitor 27,11,€ 291.18
+2026-04-06,SOUTH,Docking Station,12,€ 164.32
+2026-04-13,East,printer,16,€ 188.61
+2026-04-26,CENTRAL,tablet,7,€ 461.80
+2026-04-13,CENTRAL,Monitor 27,1,€ 251.11
+2026-04-04,South,monitor 27,15,€ 274.76
+2026-04-24,East,Mouse ,4,€ 26.19
+2026-04-22,West,Tablet ,5,€ 466.64
+2026-04-22,West,Mouse ,3,€ 24.43
+2026-04-15,East,Docking Station ,10,€ 151.73
+2026-04-17,NORTH,Headset ,16,€ 86.69
+31/02/2026,North,Laptop Pro,18,"€ 1,146.93"
+2026-04-25, central ,Mouse ,5,€ 25.23
+2026-04-02,EAST,Webcam,16,€ 63.52
+2026-04-05,South,mouse,19,€ 25.94
+2026-04-02,WEST,Tablet,6,€ 454.44
+2026-04-21,SOUTH,Mouse,10,€ 25.40
+2026-04-14, central ,laptop pro,14,"€ 1,195.79"
+2026-04-16,EAST,Headset,9,€ 84.43
+2026-04-16,NORTH,printer,18,€ 189.47
+2026-04-07,CENTRAL,Monitor 27 ,2,€ 257.89
+2026-04-06,East,Tablet,2,€ 443.65
+2026-04-25, east ,headset,6,€ 83.74
+2026-04-07,Central,Webcam,11,€ 71.71
+2026-04-04,East,headset,12,€ 85.36
+2026-04-26,West,headset,9,€ 81.60
+2026-04-15,CENTRAL,printer,14,€ 198.12
+2026-04-02, south ,docking station,9,€ 161.16
+2026-04-22,CENTRAL,webcam,14,€ 69.89
+2026-04-13, east ,mouse,13,€ 24.49
+2026-04-28,North,mouse,9,€ 24.19
+2026-04-02, central ,Laptop Pro ,19,"€ 1,134.06"
+2026-04-12,East,Printer ,,€ 205.54
+2026-04-04, central ,Tablet,14,€ 460.30
+2026-04-10,South,Laptop Air,6,€ 939.54
+2026-04-25,West,Laptop Air,13,€ 922.59
+2026-04-13, west ,docking station,16,€ 162.32
+2026-04-28, south ,docking station,5,€ 155.78
+2026-04-14,EAST,Tablet,5,€ 418.45
+2026-04-14,NORTH,Laptop Air,17,€ 809.52
+2026-04-22,South,Printer ,-19,€ 192.01
+2026-04-19,East,Keyboard ,5,€ 45.21
+2026-04-17, north ,keyboard,10,€ 50.71
+2026-04-10,South,headset,13,€ 88.27
+2026-04-23,North,Mouse,20,€ 24.77
+2026-04-09,CENTRAL,Tablet,7,€ 464.98
+2026-04-04, east ,mouse,19,€ 26.16
+2026-04-12, north ,Laptop Air ,17,€ 818.83
+2026-04-07, north ,docking station,15,€ 158.11
+2026-04-15, east ,Monitor 27 ,17,€ 253.57
+2026-04-19,CENTRAL,Webcam ,20,€ 70.46
+2026-04-18, west ,laptop pro,4,"€ 1,166.10"
+2026-04-21,EAST,Mouse ,11,€ 24.49
+2026-04-07,Central,Keyboard ,7,€ 46.17
+2026-04-18, north ,Printer,8,€ 202.33
+2026-04-26,CENTRAL,laptop pro,9,"€ 1,155.34"
+2026-04-21,East,Laptop Air,3,€ 887.98
+2026-04-13,CENTRAL,Headset,19,€ 85.56
+2026-04-26, east ,laptop pro,18,"€ 1,138.35"
+2026-04-03, west ,mouse,19,€ 23.00
+2026-04-22, central ,Webcam ,15,€ 64.07
+2026-04-07,NORTH,printer,13,€ 184.04
+2026-04-03, central ,Keyboard,1,€ 47.32
+2026-04-26,SOUTH,keyboard,9,€ 45.58
+2026-04-24,North,Mouse ,20,€ 25.20
+2026-04-12,SOUTH,Laptop Air ,14,€ 810.85
+2026-04-09,CENTRAL,Tablet,12,€ 446.37
+2026-04-21, east ,Printer ,12,€ 188.23
+2026-04-24,South,laptop pro,12,"€ 1,154.82"
+2026-04-26, west ,laptop pro,4,"€ 1,140.78"
+2026-04-12, west ,Monitor 27,16,€ 292.56
+2026-04-26,East,docking station,16,€ 164.50
+2026-04-28,North,monitor 27,17,€ 274.68
+2026-04-13, south ,Tablet ,12,€ 421.07
+2026-04-07,EAST,Laptop Pro,17,"€ 1,157.65"
+2026-04-06,WEST,Headset,5,€ 81.95
+2026-04-07, central ,Laptop Air ,18,€ 860.20
+2026-04-27,North,laptop pro,15,"€ 1,219.45"
+2026-04-19,CENTRAL,Keyboard,3,€ 50.41
+2026-04-20,CENTRAL,docking station,15,€ 154.66
+2026-04-01,SOUTH,keyboard,7,€ 50.76
+2026-04-04,NORTH,Headset,19,€ 91.82
+2026-04-15,West,Keyboard ,19,€ 48.40
+2026-04-25,NORTH,Webcam,19,€ 69.60
+2026-04-28,West,laptop pro,6,"€ 1,151.08"
+31/02/2026,West,Keyboard,16,€ 48.55
+2026-04-16,Central,Laptop Air,13,€ 817.56
+2026-04-26,SOUTH,Keyboard ,1,€ 46.98
+2026-04-21,NORTH,keyboard,8,€ 44.79
+2026-04-26, north ,keyboard,2,€ 47.53
+2026-04-08,SOUTH,headset,2,€ 92.52
+2026-04-14,East,Printer ,2,€ 183.68
+2026-04-16,NORTH,laptop pro,4,"€ 1,112.72"
+2026-04-06,Central,Tablet ,17,€ 425.87
+2026-04-26,West,Tablet,1,€ 408.96
+2026-04-18, north ,Laptop Pro ,17,"€ 1,180.11"
+2026-04-20,Central,Printer,3,€ 200.17
+2026-04-20,East,Tablet,15,€ 430.84
+2026-04-18, south ,laptop pro,1,"€ 1,112.80"
+2026-04-26, west ,tablet,7,€ 412.33
+2026-04-22, west ,Keyboard,4,€ 48.60
+2026-04-18,Central,Laptop Air,12,€ 900.48
+2026-04-24,SOUTH,laptop air,4,€ 821.21
+2026-04-10,East,Mouse,10,€ 23.05
+2026-04-19,EAST,Printer,7,€ 179.31
+2026-04-02,NORTH,Laptop Air,20,€ 837.94
+2026-04-15,West,headset,20,€ 87.77
+2026-04-25, north ,Keyboard ,1,€ 50.25
+2026-04-22,SOUTH,laptop pro,14,"€ 1,223.18"
+2026-04-06,CENTRAL,laptop pro,10,"€ 1,158.55"
+2026-04-09,East,Monitor 27 ,12,€ 252.29
+2026-04-04,South,Headset ,15,€ 82.28
+2026-04-25, central ,webcam,11,€ 64.94
+2026-04-01,WEST,Keyboard,18,€ 44.25
+2026-04-18,East,keyboard,11,€ 44.11
+2026-04-11, north ,keyboard,18,€ 45.29
+2026-04-27,East,laptop pro,14,"€ 1,191.86"
+2026-04-03,Central,Docking Station ,4,€ 166.13
+2026-04-07,Central,Monitor 27,-2,€ 278.30
+2026-04-08,West,tablet,17,€ 450.56
+2026-04-21,SOUTH,laptop air,7,€ 847.85
+2026-04-23,EAST,Laptop Pro ,14,"€ 1,207.84"
+2026-04-20, west ,Monitor 27,20,€ 279.85
+2026-04-25, west ,mouse,8,€ 23.78
+2026-04-03,SOUTH,Laptop Pro ,9,"€ 1,190.30"
+2026-04-05,NORTH,printer,20,€ 181.13
+2026-04-10, north ,Headset ,3,€ 89.84
+2026-04-01,NORTH,tablet,12,€ 409.12
+2026-04-04, west ,Tablet ,17,€ 450.41
+2026-04-25,West,mouse,6,€ 25.87
+2026-04-10, west ,Mouse ,14,€ 25.11
+2026-04-15,NORTH,Monitor 27 ,15,€ 265.43
+2026-04-01,WEST,Keyboard,8,€ 44.88
+2026-04-26,EAST,Keyboard,11,€ 46.14
+2026-04-28,South,Laptop Pro ,3,"€ 1,241.84"
+2026-04-26, central ,monitor 27,10,€ 278.77
+2026-04-02,SOUTH,Monitor 27,16,€ 255.16
+2026-04-13, east ,laptop pro,3,"€ 1,181.55"
+2026-04-02,NORTH,Keyboard ,10,€ 44.21
+2026-04-12,EAST,Monitor 27,18,€ 281.34
+2026-04-12,EAST,Monitor 27 ,12,€ 266.43
+2026-04-22,North,tablet,8,€ 465.34
+2026-04-10,West,Monitor 27 ,1,€ 260.47
+2026-04-08, west ,Keyboard,12,€ 45.87
+2026-04-09,NORTH,Webcam ,2,€ 63.13
+2026-04-27, east ,Headset ,8,€ 83.86
+2026-04-15, west ,Webcam ,4,€ 63.24
+2026-04-23,WEST,Tablet ,3,€ 431.36
+2026-04-16, south ,webcam,8,€ 66.51
+2026-04-04,South,Laptop Pro,3,"€ 1,126.96"
+2026-04-16,SOUTH,Webcam ,11,€ 67.84
+2026-04-17, south ,Laptop Air ,16,€ 909.46
+2026-04-20, west ,printer,4,€ 180.89
+2026-04-17,NORTH,Headset ,8,€ 87.06
+2026-04-28,EAST,tablet,7,€ 410.94
+2026-04-09,West,Webcam,15,€ 70.23
+2026-04-03,West,Monitor 27,11,€ 255.20
+2026-04-22,East,Mouse ,3,€ 22.95
+2026-04-16, east ,Webcam ,6,€ 67.37
+2026-04-01,West,Tablet,2,€ 440.28
+2026-04-25, west ,Keyboard,20,€ 45.12
+2026-04-05,West,docking station,-11,€ 160.76
+2026-04-22, south ,docking station,8,€ 143.47
+2026-04-24,North,Webcam,15,€ 64.35
+2026-04-10, west ,laptop pro,5,"€ 1,230.04"
+2026-04-24,East,mouse,19,€ 23.25
+2026-04-13,North,Laptop Air,6,€ 810.80
+2026-04-08,North,Webcam,16,€ 65.97
+2026-04-22,SOUTH,Webcam ,20,€ 71.48
+2026-04-27, west ,Keyboard,7,€ 46.38
+2026-04-09,SOUTH,Webcam ,11,€ 62.43
+2026-04-11,WEST,Monitor 27 ,1,€ 274.90
+2026-04-08,North,Monitor 27 ,5,€ 276.53
+2026-04-20,WEST,Mouse,16,€ 24.61
+2026-04-05, east ,Headset ,8,€ 87.60
+2026-04-14, south ,Mouse,5,€ 26.24
+2026-04-19, east ,monitor 27,2,€ 258.12
+2026-04-06,NORTH,Headset,19,€ 91.04
+2026-04-09,Central,headset,8,€ 91.58
+2026-04-23, west ,Mouse,4,€ 22.69
+2026-04-01,EAST,laptop air,3,€ 848.07
+2026-04-28,South,Monitor 27,14,€ 254.17
+2026-04-28,EAST,headset,17,€ 87.88
+2026-04-08, west ,webcam,17,€ 68.17
+2026-04-17, central ,Docking Station ,,€ 153.50
+2026-04-09,Central,Printer,13,€ 184.52
+2026-04-21, south ,Mouse ,14,€ 23.87
+2026-05-09,North,Tablet ,2,€ 446.14
+2026-05-07,EAST,Webcam,1,€ 66.70
+2026-05-22, south ,Docking Station,15,€ 165.96
+2026-05-14,North,Keyboard ,7,€ 48.09
+2026-05-05,SOUTH,Headset ,12,€ 89.92
+2026-05-13,West,docking station,12,€ 146.14
+2026-05-21, south ,Keyboard,9,€ 44.93
+2026-05-05,WEST,Tablet ,20,€ 432.44
+2026-05-16,Central,laptop air,15,€ 936.18
+2026-05-18,East,printer,12,€ 200.13
+2026-05-11,South,Headset ,16,€ 89.35
+2026-05-13, east ,Monitor 27 ,4,€ 291.38
+2026-05-27, central ,Mouse,7,€ 24.88
+2026-05-25,South,Printer ,12,€ 201.97
+2026-05-21,EAST,mouse,6,€ 25.58
+2026-05-15, central ,printer,2,€ 185.02
+2026-05-20,Central,Laptop Pro,14,"€ 1,209.60"
+2026-05-01, north ,Mouse,1,€ 25.64
+2026-05-23, south ,laptop air,1,€ 832.51
+2026-05-09,South,Monitor 27,1,€ 252.10
+2026-05-03, south ,Laptop Air,5,€ 872.46
+2026-05-17, east ,Laptop Air ,11,€ 848.45
+2026-05-28, east ,Webcam ,11,€ 62.67
+2026-05-09,South,Laptop Air,9,€ 821.42
+2026-05-02,East,printer,5,€ 202.73
+31/02/2026, central ,Docking Station ,16,€ 146.46
+2026-05-18,NORTH,Printer,5,€ 204.14
+2026-05-13,EAST,Headset ,1,€ 83.16
+2026-05-26,West,Laptop Air ,4,€ 817.95
+2026-05-07,WEST,monitor 27,15,€ 284.21
+2026-05-20,North,Keyboard ,16,€ 48.25
+2026-05-01,SOUTH,Monitor 27,19,€ 260.13
+2026-05-08, east ,Webcam,17,€ 66.48
+2026-05-11, north ,Tablet,1,€ 419.51
+2026-05-08,Central,Laptop Pro,10,"€ 1,117.13"
+2026-05-20,South,webcam,6,€ 64.22
+2026-05-22,EAST,Mouse,5,€ 23.09
+2026-05-15,EAST,Keyboard,10,€ 47.01
+2026-05-24, east ,tablet,2,€ 456.27
+2026-05-03,East,Docking Station,2,€ 150.85
+2026-05-05, south ,Keyboard,8,€ 47.49
+2026-05-11,NORTH,Keyboard,17,€ 49.38
+2026-05-22,West,docking station,17,€ 150.51
+31/02/2026,NORTH,laptop air,20,€ 861.29
+2026-05-03, east ,webcam,17,€ 64.40
+2026-05-28,WEST,Docking Station,14,€ 161.47
+2026-05-18, west ,Docking Station ,11,€ 157.86
+2026-05-25,WEST,Laptop Air ,3,€ 894.97
+2026-05-05,NORTH,mouse,18,€ 22.98
+2026-05-22,CENTRAL,webcam,2,€ 65.20
+2026-05-28,East,Laptop Air ,14,€ 879.20
+2026-05-13, north ,Monitor 27,2,€ 252.43
+2026-05-17, north ,Monitor 27,3,€ 264.32
+2026-05-20,WEST,tablet,6,€ 420.24
+2026-05-25,West,headset,11,€ 84.94
+2026-05-15, central ,Keyboard,4,€ 44.77
+2026-05-16,SOUTH,Headset,6,€ 88.16
+2026-05-25,WEST,Mouse ,13,€ 25.19
+2026-05-24,South,Monitor 27,16,€ 255.58
+2026-05-11, south ,Tablet,1,€ 421.28
+2026-05-27,South,webcam,20,€ 65.42
+2026-05-24,EAST,Monitor 27 ,7,€ 278.71
+2026-05-27,NORTH,Laptop Pro,8,"€ 1,182.49"
+2026-05-26, east ,Laptop Pro,20,"€ 1,086.18"
+2026-05-11,SOUTH,laptop pro,11,"€ 1,226.38"
+2026-05-12, east ,Mouse,12,€ 24.82
+2026-05-13, east ,Headset ,4,€ 92.69
+2026-05-22,WEST,Laptop Pro,19,"€ 1,214.99"
+2026-05-27,NORTH,Keyboard ,6,€ 49.65
+2026-05-09,CENTRAL,Mouse ,11,€ 23.93
+2026-05-05,SOUTH,Mouse,18,€ 25.17
+2026-05-12,SOUTH,laptop pro,11,"€ 1,237.16"
+2026-05-28,CENTRAL,monitor 27,2,€ 284.31
+2026-05-15,East,tablet,16,€ 456.83
+2026-05-24,EAST,keyboard,12,€ 45.93
+2026-05-04,EAST,laptop air,1,€ 930.88
+2026-05-08, east ,laptop pro,3,"€ 1,189.72"
+2026-05-24, north ,Webcam,7,€ 71.00
+2026-05-10,WEST,Headset,13,€ 84.24
+2026-05-16,EAST,Printer ,12,€ 201.00
+2026-05-24,East,Mouse ,19,€ 25.93
+2026-05-19,CENTRAL,Printer,3,€ 193.55
+2026-05-01,South,Headset,7,€ 82.88
+2026-05-12,NORTH,Tablet,19,€ 406.45
+31/02/2026,WEST,Printer ,1,€ 200.52
+2026-05-03,SOUTH,Headset ,17,€ 83.98
+2026-05-26,East,Tablet,4,€ 419.07
+2026-05-26,North,printer,8,€ 190.05
+2026-05-06, west ,Headset,3,€ 92.51
+2026-05-11,EAST,Keyboard,11,€ 47.89
+2026-05-16,Central,Monitor 27,17,€ 251.55
+2026-05-20, west ,Monitor 27,,€ 288.77
+2026-05-06,North,Monitor 27 ,18,€ 287.88
+2026-05-28, central ,Laptop Air,12,€ 816.30
+2026-05-07,CENTRAL,laptop pro,1,"€ 1,241.21"
+2026-05-17,West,keyboard,5,€ 48.22
+2026-05-05,West,Monitor 27 ,1,€ 268.84
+2026-05-23,East,Printer ,20,€ 187.34
+2026-05-07,CENTRAL,headset,15,€ 80.82
+2026-05-26,East,Laptop Pro,6,"€ 1,213.69"
+2026-05-18, east ,Keyboard ,8,€ 47.90
+2026-05-08, central ,monitor 27,6,€ 288.94
+2026-05-19,NORTH,Keyboard,15,€ 49.33
+2026-05-09,West,keyboard,17,€ 44.49
+2026-05-15,NORTH,laptop pro,3,"€ 1,240.55"
+2026-05-22, west ,Tablet ,5,€ 425.65
+2026-05-21,South,Monitor 27 ,18,€ 265.16
+2026-05-07,South,keyboard,6,€ 50.49
+2026-05-20, west ,Docking Station ,10,€ 150.49
+2026-05-15,NORTH,keyboard,5,€ 45.52
+2026-05-04, central ,docking station,10,€ 147.48
+2026-05-27, west ,Webcam,19,€ 67.13
+2026-05-16,CENTRAL,mouse,7,€ 24.27
+2026-05-05, central ,Tablet,6,€ 419.79
+2026-05-23, west ,Docking Station ,3,€ 152.72
+2026-05-24, west ,Docking Station,11,€ 151.49
+2026-05-21, south ,Headset,15,€ 91.64
+2026-05-18, north ,Printer ,2,€ 204.46
+2026-05-12,CENTRAL,webcam,13,€ 71.95
+2026-05-10, south ,Printer,18,€ 198.57
+2026-05-22,South,Laptop Pro,12,"€ 1,201.01"
+2026-05-26, east ,Headset ,19,€ 87.73
+2026-05-11,South,Keyboard,18,€ 48.16
+2026-05-10,NORTH,monitor 27,5,€ 288.66
+2026-05-20,East,laptop pro,16,"€ 1,158.38"
+2026-05-12, central ,Mouse ,1,€ 23.81
+2026-05-26,EAST,tablet,16,€ 411.93
+2026-05-13,CENTRAL,Mouse ,20,€ 24.62
+2026-05-01,EAST,Mouse,13,€ 22.75
+2026-05-01,EAST,Tablet ,11,€ 423.49
+2026-05-06,West,Webcam,1,€ 62.88
+2026-05-02,South,Keyboard ,5,€ 46.39
+2026-05-02,West,keyboard,9,€ 45.00
+2026-05-05,CENTRAL,laptop air,18,€ 933.42
+2026-05-25,SOUTH,Laptop Air ,14,€ 922.04
+2026-05-24,West,Laptop Pro ,13,"€ 1,155.04"
+2026-05-20,South,Monitor 27,10,€ 252.69
+2026-05-06, north ,Laptop Pro ,2,"€ 1,083.02"
+2026-05-04,WEST,Monitor 27,6,€ 255.58
+2026-05-20,East,Keyboard ,7,€ 46.75
+2026-05-11,WEST,headset,14,€ 83.48
+2026-05-16,NORTH,Keyboard,6,€ 45.32
+2026-05-26,East,monitor 27,2,€ 269.75
+2026-05-22,NORTH,Printer,15,€ 195.44
+2026-05-01, west ,printer,15,€ 205.41
+2026-05-21,East,Printer,13,€ 194.36
+2026-05-28,North,Monitor 27,18,€ 272.72
+2026-05-06,WEST,Webcam ,6,€ 69.25
+2026-05-17, central ,Laptop Pro ,1,"€ 1,230.98"
+2026-05-14,SOUTH,docking station,19,€ 152.18
+2026-05-11,West,headset,19,€ 92.50
+2026-05-06,East,Printer,13,€ 184.80
+2026-05-26, central ,Keyboard,1,€ 51.38
+2026-05-11, central ,Docking Station ,9,€ 162.21
+2026-05-06,Central,docking station,18,€ 154.76
+2026-05-28, north ,mouse,16,€ 25.99
+2026-05-05,WEST,Laptop Pro,3,"€ 1,182.21"
+2026-05-19, central ,Mouse ,14,€ 25.14
+2026-05-03, central ,Laptop Pro ,5,"€ 1,097.61"
+2026-05-04,CENTRAL,Mouse,14,€ 24.16
+2026-05-03, west ,Mouse ,12,€ 22.87
+2026-05-27, east ,webcam,7,€ 62.77
+2026-05-09,East,mouse,7,€ 25.95
+2026-05-17, west ,Tablet ,19,€ 450.75
+2026-05-15,EAST,mouse,13,€ 25.06
+2026-05-04,NORTH,webcam,5,€ 70.50
+2026-05-02, central ,mouse,18,€ 25.26
+2026-05-12, west ,Monitor 27 ,8,€ 261.97
+2026-05-02,West,Tablet,16,€ 405.82
+2026-05-28, north ,Laptop Air ,7,€ 871.75
+2026-05-23,North,Webcam,10,€ 65.65
+2026-05-06,SOUTH,Printer,4,€ 198.36
+2026-05-09, east ,tablet,6,€ 415.13
+2026-05-16,South,Keyboard ,9,€ 46.01
+2026-05-08,South,Laptop Pro,20,"€ 1,133.40"
+2026-05-21,West,laptop air,18,€ 893.33
+31/02/2026,NORTH,Webcam ,14,€ 71.56
+2026-05-22,North,docking station,13,€ 148.63
+2026-05-16,Central,Webcam,7,€ 71.66
+2026-05-17,North,monitor 27,18,€ 264.42
+2026-05-05,WEST,monitor 27,16,€ 271.74
+2026-05-19, east ,Mouse ,4,€ 24.58
+2026-05-11,South,Printer ,-11,€ 205.55
+2026-05-13,NORTH,Docking Station,5,€ 154.99
+2026-05-11,West,Mouse,19,€ 24.55
+2026-05-25,North,docking station,11,€ 147.98
+2026-05-10,WEST,Laptop Air ,12,€ 885.02
+2026-05-16,SOUTH,Docking Station,18,€ 165.95
+2026-05-12, south ,monitor 27,20,€ 259.07
+2026-05-23,SOUTH,Mouse ,-19,€ 22.74
+2026-05-07, central ,Laptop Pro,3,"€ 1,116.11"
+2026-05-22, north ,tablet,8,€ 449.16
+2026-05-04,South,mouse,19,€ 25.17
+2026-05-09,NORTH,Laptop Pro ,14,"€ 1,094.85"
+2026-05-11, central ,Mouse ,1,€ 24.43
+2026-05-23, central ,Docking Station ,,€ 162.76
+2026-05-19,SOUTH,Laptop Pro,6,"€ 1,242.07"
+2026-05-04,SOUTH,Keyboard ,4,€ 46.07
+2026-05-11, west ,Tablet,13,€ 470.96
+2026-05-03,Central,laptop pro,14,"€ 1,098.97"
+2026-05-17,SOUTH,Mouse,14,€ 23.87
+2026-05-01, north ,Laptop Pro ,14,"€ 1,191.20"
+2026-05-06,EAST,Headset ,12,€ 87.46
+2026-05-12, east ,docking station,18,€ 146.48
+2026-05-05, south ,Monitor 27 ,4,€ 275.73
+2026-05-06,EAST,Laptop Air ,,€ 885.57
+2026-05-18, west ,Laptop Air,14,€ 871.58
+2026-05-24,NORTH,laptop pro,8,"€ 1,155.12"
+2026-05-25, north ,Keyboard,8,€ 50.68
+2026-05-08, north ,Docking Station,16,€ 157.15
